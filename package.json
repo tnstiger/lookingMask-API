@@ -1,0 +1,26 @@
+{
+  "name": "lookingmask-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apicache": "^1.5.3",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "bookshelf": "^1.1.0",
+    "bookshelf-crud": "^1.2.1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.8.19",
+    "ddos": "^0.2.1",
+    "express": "^4.17.1",
+    "express-force-https": "^1.0.0",
+    "knex": "^0.20.8",
+    "mysql": "^2.18.1",
+    "querystring": "^0.2.0"
+  }
+}

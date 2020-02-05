@@ -1,0 +1,21 @@
+const path = require("path");
+const env = "dev";
+const port = 8899;
+const dbConfig = {
+  host: "127.0.0.1",
+  user: "",
+  password: "",
+  database: "",
+  charset: "utf8"
+};
+const SSLCerts = {
+  cert: path.resolve("./../certs/lookingmask.crt"),
+  key: path.resolve("./../certs/lookingmask.key")
+};
+
+module.exports = {
+  env,
+  port,
+  dbConfig,
+  SSLCerts
+};
