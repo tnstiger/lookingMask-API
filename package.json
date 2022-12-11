@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "dayjs": "^1.8.19",
     "ddos": "^0.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-force-https": "^1.0.0",
     "knex": "^0.20.8",
     "mysql": "^2.18.1",
