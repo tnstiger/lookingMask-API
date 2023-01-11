@@ -19,7 +19,7 @@
     "ddos": "^0.2.1",
     "express": "^4.17.1",
     "express-force-https": "^1.0.0",
-    "knex": "^0.20.8",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "querystring": "^0.2.0"
   }
